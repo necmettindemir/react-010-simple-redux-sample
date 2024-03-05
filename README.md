@@ -19,26 +19,6 @@ This little app shows
 Easy to go!
 
 
--------------------------
-
-…or create a new repository on the command line
-
-- echo "# react-010-simple-redux-sample" >> README.md
-- git init
-- git add README.md
-- git commit -m "first commit"
-- git branch -M main
-- git remote add origin https://github.com/necmettindemir/react-010-simple-redux-sample.git
-- git push -u origin main
-
-…or push an existing repository from the command line
-
-- git remote add origin https://github.com/necmettindemir/react-010-simple-redux-sample.git
-- git branch -M main
-- git push -u origin main
-
--------------------------
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -50,3 +30,25 @@ Open [http://localhost:9915](http://localhost:9915) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+
+
+-------------------------
+
+…or create a new repository on the command line
+
+- echo "# react-010-simple-redux-sample" >> README.md
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git branch -M main
+- git remote add origin https://github.com/...git
+- git push -u origin main
+
+…or push an existing repository from the command line
+
+- git remote add origin https://github.com/...git
+- git branch -M main
+- git push -u origin main
+
+-------------------------
